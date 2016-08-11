@@ -1,0 +1,20 @@
+2016-06-29 20:09:19,559 main INFO  user.DaoUserRunner - My test message
+2016-06-29 20:10:09,569 main INFO  user.DaoUserRunner - My test message
+2016-06-29 20:15:54,287 main INFO  user.DaoUserRunner - My test message
+2016-06-29 20:16:44,817 main INFO  user.DaoUserRunner - My test message
+2016-06-29 20:17:44,950 main INFO  user.DaoUserRunner - My test message
+2016-06-29 20:22:55,930 main INFO  user.DaoUserRunner - My test message
+2016-06-29 20:23:28,071 main ERROR user.DaoUserRunner - My test message
+2016-06-29 20:30:24,921 main ERROR user.DaoUserRunner - My test message
+2016-06-29 20:31:28,037 main ERROR user.DaoUserRunner - My test message
+ 12 2016-06-29 20:42:33,823 main ERROR user.DaoUserRunner main -  My test message
+ 12 2016-06-29 20:43:31,102 main INFO  user.DaoUserRunner myMethod -  Test message
+ 2016-06-29 20:43:53,908 main INFO  user.DaoUserRunner myMethod -  Test message
+2016-06-29 20:44:10,911 main INFO  user.DaoUserRunner myMethod -  Test message
+2016-06-29 20:46:44,673 main INFO  user.DaoUserRunner dao.user.DaoUserRunner.myMethod(DaoUserRunner.java:15) -  Test message
+2016-06-29 20:49:21,762 main INFO  user.DaoUserRunner myMethod15 -  Test message
+2016-06-29 21:02:56,913 main INFO  user.DaoUserRunner myMethod15 -  Test message
+2016-06-29 21:03:11,661 main INFO  user.DaoUserRunner myMethod line:15 -  Test message
+2016-06-29 21:03:39,288 main INFO  user.DaoUserRunner myMethod() line:15 -  Test message
+29 θών 2016 21:05:32,297 main INFO  user.DaoUserRunner myMethod() line:15 -  Test message
+2016-06-29 21:07:44,193 main INFO  user.DaoUserRunner myMethod() line:15 -  Test message
